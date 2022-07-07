@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image" href="recursos/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="estilos/styles.css">
+    <title>Formulario 1</title>
+</head>
+<body>
+	<div id="Principal">
+		<form id="formulario">
+			<div class="contenedor" id="titulo">
+				<fieldset>
+				<h1>Formulario de inscripción</h1>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor titulo">
+				<fieldset>
+					<h2>Datos personales</h2>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor" id="datos">
+				<fieldset>
+					<table cellpadding=5px cellspacing=5px align="center">
+						<tr>
+							<td>Nombre:</td>
+							<td width=90%><input type="text" name="nombre" placeholder="Haga click aquí para escribir texto"></td>
+						</tr>
+						<tr>
+							<td>Apellido:</td>
+							<td><input type="text" name="apellido" placeholder="Haga click aquí para escribir texto"></td>
+						</tr>
+						<tr>
+							<td>Direcci&oacute;n:</td>
+							<td><input type="text" name="direccion" placeholder="Haga click aquí para escribir texto"></td>
+						</tr>
+						<tr>
+							<td>Tel&eacute;fono:</td>
+							<td><input type="tel" name="telefono" placeholder="55-##-##-##-##" required></td>
+						</tr>
+						<tr>
+							<td>Correo electr&oacute;nico:</td>
+							<td><input type="text" name="correo" placeholder="ejemplo@extensión"></td>
+						</tr>
+						<tr>
+							<td>Documento:</td>
+							<td><input type="text" name="documento" placeholder="Haga click aquí para escribir texto"></td>
+						</tr>
+						<tr>
+							<td>Fecha de nacimiento:</td>
+							<td><input type="date" name="fecha" placeholder="Seleccione fecha"></td>
+						</tr>
+
+					</table>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor titulo" id="capacitacion">
+				<fieldset>
+					<h2>Capacitaci&oacute;n</h2>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor" id="curso">
+				<fieldset>
+					<table>
+					<tr>
+						<td>Curso</td>
+						<td>
+							<select name="menu">
+  								<option value="0">Elija un curso</option>
+  								<option value="1">Uno</option>
+  								<option value="2">Dos</option>
+ 								<option value="3">Tres</option>
+							</select>
+						</td>
+						<td colspan="5">Días</td>
+					</tr>
+					<tr>
+						<td>Horario</td>
+						<td>Elija un horario</td>
+						<td><input type="checkbox" name="lunes">Lunes</td>
+						<td><input type="checkbox" name="martes">Martes</td>
+						<td><input type="checkbox" name="miercoles">Miercoles</td>
+						<td><input type="checkbox" name="jueves">Jueves</td>
+						<td><input type="checkbox" name="viernes">Viernes</td>
+					</tr>
+					</table>
+			</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor titulo" id="pago">
+				<fieldset>
+					<h2>Plan de pago</h2>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor" id="plan">
+				<fieldset>
+					<table>
+						<tr>
+							<td width=10%>
+								<input type="radio" name="modo_pago" value="contado">
+							</td>
+							<td width=50%>Contado</td>
+							<td width=50%>Moneda</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="radio" name="modo_pago" value="credito">
+							</td>
+							<td>Credito</td>
+							<td>Tarjeta</td>
+						</tr>
+					</table>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor titulo" id="institucion">
+				<fieldset>
+					<h2>Datos de la instituci&oacute;n</h2>
+				</fieldset>
+			</div>
+			<hr>
+			<div class="contenedor">
+				<fieldset>
+					<table>
+						<tr>
+							<td>No. de contrato</td>
+							<td width=50%>
+								<input type="text" name="contrato" placeholder="Haga click aqui para escribir">
+							</td>
+						</tr>
+						<tr>
+							<td>Personas que atendio</td>
+							<td>
+								<input type="text" name="personas" placeholder="Haga click aqui para escribir">
+							</td>
+						</tr>
+						<tr>
+							<td>Fecha de inscripci&oacute;n</td>
+							<td>
+								<input type="date" name="inscripcion">
+							</td>
+						</tr>
+					</table>
+				</fieldset>
+			</div>
+			
+		</form>
+	</div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cv>
+	<title>Ernesto Daniel Sánchez Becerra</title>
+	<perfil>
+		<caption>Ingeniero en Sistemas Computacionales egresado de la Escuela Superior de Cómputo
+		con una trayectoria satisfactoria en todos mis grados de estudio lo que me ha permitido
+		establecer un gran sentido de responsabilidad y constancia en cada una de las actividades que realizo.
+		</caption>
+		<caption>
+			Interesado en crecer laboral, académica y profesionalmente adquiriendo el mayor de los conocimientos
+			y poniendo estos en práctica para lograr siempre una mejor versión de mi. 
+		</caption>
+	</perfil>
+	<education>
+		<title>Trayectoria Académica</title>
+		<plantel>CECyT #1 "Gonzalo Vázquez Vela"</plantel>
+		<periodo>Ago/2016 - Jul/2019</periodo>
+		<descripcion>
+			<ul>
+				<li>Promedio: 8.5</li>
+				<p>Aprendizajes adquiridos</p>
+				<li>Manejo de sistemas digitales</li>
+				<li>Manejo de circuitos electrónicos analógicos y digitales</li>
+				<li>Manejo de instrumentos de medición digitales</li>
+			</ul>
+		</descripcion>
+
+		<plantel>Escuela Superior de Cómputo</plantel>
+		<periodo>Ago/2019 - Actualidad</periodo>
+		<descripcion>
+			<ul>
+				<li>Promedio: 7.42</li>
+				<p>Aprendizajes adquiridos</p>
+				<li>Uso de hardware y software para manejo de sistemas automatizados</li>
+				<li>Manejo de lenguajes de programación de alto y bajo nivel</li>
+				<li>Análisis y gestión de la administración de proyectos</li>
+			</ul>
+		</descripcion>
+	</education>
+
+
+	<proyectos>
+		<title>Mis proyectos</title>
+		<nombre>APPerro</nombre>
+		<descripcion>
+			<p></p>
+		</descripcion>
+	</proyectos>
+	
+</cv>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cv>
+	<title>Ernesto Daniel Sánchez Becerra</title>
+	<perfil>
+		<caption>Ingeniero en Sistemas Computacionales egresado de la Escuela Superior de Cómputo
+		con una trayectoria satisfactoria en todos mis grados de estudio lo que me ha permitido
+		establecer un gran sentido de responsabilidad y constancia en cada una de las actividades que realizo.
+		</caption>
+		<caption>
+			Interesado en crecer laboral, académica y profesionalmente adquiriendo el mayor de los conocimientos
+			y poniendo estos en práctica para lograr siempre una mejor versión de mi. 
+		</caption>
+	</perfil>
+	<education>
+		<title>Trayectoria Académica</title>
+		<plantel>CECyT #1 "Gonzalo Vázquez Vela"</plantel>
+		<periodo>Ago/2016 - Jul/2019</periodo>
+		<descripcion>
+			<ul>
+				<li>Promedio: 8.5</li>
+				<p>Aprendizajes adquiridos</p>
+				<li>Manejo de sistemas digitales</li>
+				<li>Manejo de circuitos electrónicos analógicos y digitales</li>
+				<li>Manejo de instrumentos de medición digitales</li>
+			</ul>
+		</descripcion>
+
+		<plantel>Escuela Superior de Cómputo</plantel>
+		<periodo>Ago/2019 - Actualidad</periodo>
+		<descripcion>
+			<ul>
+				<li>Promedio: 7.42</li>
+				<p>Aprendizajes adquiridos</p>
+				<li>Uso de hardware y software para manejo de sistemas automatizados</li>
+				<li>Manejo de lenguajes de programación de alto y bajo nivel</li>
+				<li>Análisis y gestión de la administración de proyectos</li>
+			</ul>
+		</descripcion>
+	</education>
+
+
+	<proyectos>
+		<title>Mis proyectos</title>
+		<nombre>APPerro</nombre>
+		<descripcion>
+			<p>APPerro es una aplicación móvil que permite a usuarios gestionar los cuidados dados de nuestros amigos
+        caninos, además de contar con diferentes funcionalidades para usuarios que se registren como veterinarios
+        o centros de adopción. </p>
+		</descripcion>
+
+        <nombre>ESCOMcalma</nombre>
+		<descripcion>
+			<p>ESCOMcalma es un sitio web dedicado a estudiantes de la carrera de Ingenieria en Sistemas
+        Computacionales cuyo proposito es brindar un espacio a la comunidad de ESCOM para encontrar 
+        materiales de calidad para poner en práctica sus conocimientos adquiridos durante
+        su formación profesional.</p>
+		</descripcion>
+
+        <nombre>POLIEnarm</nombre>
+		<descripcion>
+			<p>POLIEnarm es un sitio web dedicado a estudiantes de medicina cuyo proposito es brindar una herramienta
+        donde podrán encontrar diferentes funcionalidades para el estudio de la prueba ENARM que va dirigida
+        a esta área de estudio que es la medicina.</p>
+		</descripcion>
+
+        <nombre>Rootgrow</nombre>
+		<descripcion>
+			<p>Rootgrow es una aplicación móvil que permite gestionar el uso de la red local para que los usuarios 
+        limiten las acciones en caso de sufrir de algún robo de contraseña o bien medir los tiempos de 
+        acción de las tareas del usuario al utilizar dicha red.</p>
+		</descripcion>
+
+        <nombre>Guiamex</nombre>
+		<descripcion>
+			<p>Guiamex es una aplicaciín móvil dedicada a los extranjeros que visiten a ciudad de méxico 
+        cuyo proposito principal es brindar actualizaciones de eventos o lugares importantes que pueden
+        visitar o bien tener un control de actividades que se deseen realizar a lo largo del territorio dependiendo
+        de la zona donde se encuentrn.</p>
+		</descripcion>
+	</proyectos>
+	
+</cv>

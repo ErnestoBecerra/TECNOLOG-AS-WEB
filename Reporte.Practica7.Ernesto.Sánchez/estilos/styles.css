@@ -1,0 +1,65 @@
+table th{
+    width: 20em;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr:nth-of-type(1){
+    background-color: orange;
+}
+
+th[colspan]{
+    text-align:center;
+    background-color: midnightblue;
+    font-weight: bold;
+}
+
+tr:nth-of-type(2) > th,
+tr:nth-of-type(3) > th,
+tr:nth-of-type(5) > th,
+tr:nth-of-type(6) > th,
+tr:nth-of-type(7) > th{
+    background-color: burlywood;
+}
+
+.mates{
+    background-color: chocolate;
+    text-align: center;
+}
+
+.admin{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.algoritmos{
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.adoo{
+    background-color: fuchsia;
+    text-align: center;
+}
+
+.instru{
+    background-color: green;
+    text-align: center;
+}
+
+.web{
+    background-color: lawngreen;
+    text-align: center;
+}
+
+.time{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.free{
+    background-color: orchid;
+    text-align: center;
+}

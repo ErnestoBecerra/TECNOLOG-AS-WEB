@@ -1,0 +1,21 @@
+table th{
+    width: 90em;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table td{
+    text-align: center;
+}
+
+th[colspan]{
+    text-align:left;
+    background-color: burlywood;
+    font-weight: bold;
+}
+
+.blanco{
+    background-color: white;
+}
